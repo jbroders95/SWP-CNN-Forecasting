@@ -27,7 +27,7 @@ Temporal sequences are constructed using:
 
 Model input tensor shape:
 
-(batch, height, width, 8)
+(batch, height, width, weeks in)
 
 Each channel corresponds to one weekly bathymetric surface.
 
